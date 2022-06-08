@@ -1,4 +1,15 @@
 # imageproccessing-finalproject
+## 開發環境
+  1.使用開發軟體工具：Visual Studio Code
+  
+  2.使用語言：Python3.9
+  
+  3.使用套件：OpenCV、Scipy、Numpy、openpyxl
+  
+  4.介面開發工具：PyQt5
+  
+  
+## 程式說明
 1.Export.py：將圖片數值化後寫檔
 
 2.Hash.py：取得圖片的雜湊值
