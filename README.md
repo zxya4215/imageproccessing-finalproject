@@ -1,6 +1,6 @@
 # imageproccessing-finalproject
 ## 開發環境
-  1.使用開發軟體工具：Visual Studio Code
+  1.使用開發軟體工具：PyCharm
   
   2.使用語言：Python3.9
   
